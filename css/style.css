@@ -3,8 +3,6 @@ header{
   background-color: rgb(17, 170, 241);
   padding: 50px;
   background-size: contain;
-  
- 
 }
 
 .logo{
@@ -82,13 +80,15 @@ thead{
     
 }
 
-.table{
-    border-collapse: inherit;
-    border
+table{
+    border-collapse: collapse;
+    border-spacing: 0px;
 }
+    
 
 td{
     width: 300px;
+    border: 0;
 }
 
 .color1{
