@@ -3,5 +3,75 @@ header{
   background-color: rgb(17, 170, 241);
   padding: 50px;
   background-size: contain;
+  
+ 
 }
 
+.logo{
+    width: 300px;
+    margin-left: 300px;
+}
+
+main{
+    padding-left: 360px;
+    padding-right: 360px;
+    
+}
+
+.title{
+    font-size: 81px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.booleaner{
+    color: blue;
+    font-size: 30px;
+    margin-top: 0%;
+    margin-bottom: 0px;
+}
+
+.scritto-da{
+    color: gray;
+    font-size: 30px;
+    margin-top: 0%;
+    margin-bottom: 0px;
+}
+
+.date{
+    margin-top: 0px;
+    color: gray;
+    font-size: 20px;
+}
+
+.tim-1{
+    display: block;
+    margin-bottom: 10px;
+}
+
+.tim-2{
+    display: block;
+    margin-bottom: 1px;
+}
+
+.description1{
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+.description2{
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.text1{
+    font-size: 20px;
+}
+
+.mark{
+    background-color: yellow;
+    
+}
+
+.ul1{
+    font-size: 20px;
+}
