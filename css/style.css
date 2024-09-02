@@ -75,3 +75,32 @@ main{
 .ul1{
     font-size: 20px;
 }
+
+thead{
+    font-size: 20px;
+    background-color: aqua;
+    
+}
+
+.table{
+    border-collapse: inherit;
+    border
+}
+
+td{
+    width: 300px;
+}
+
+.color1{
+    background-color: rgb(143, 231, 247);
+}
+
+.text2{
+    font-size: 20px;
+}
+
+footer{
+    padding-left: 360px;
+    padding-right: 360px;
+}
+
