@@ -1,8 +1,7 @@
 header{
   background-image: url(../img/pattern.png);
   background-color: rgb(17, 170, 241);
-  padding: 50px;
-  background-size: contain;
+  background-size: 300px;
 }
 
 .logo{
@@ -10,16 +9,17 @@ header{
     margin-left: 300px;
 }
 
-main{
+body{
     padding-left: 360px;
     padding-right: 360px;
-    
+    margin: 0;
 }
 
 .title{
     font-size: 81px;
     margin-bottom: 0px;
     padding-bottom: 0px;
+    margin-top: auto;
 }
 
 .booleaner{
@@ -92,6 +92,11 @@ td{
     border: 0;
 }
 
+.content-list{
+    padding-left: 20px;
+}
+
+
 .color1{
     background-color: rgb(143, 231, 247);
 }
@@ -99,12 +104,6 @@ td{
 .text2{
     font-size: 20px;
 }
-
-footer{
-    padding-left: 360px;
-    padding-right: 360px;
-}
-
 .interested{
     font-size: 20px;
     font-family: fantasy;
